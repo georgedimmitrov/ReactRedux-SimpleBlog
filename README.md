@@ -1,2 +1,1 @@
-# Simple Blog App using React
-Using React Router
+# Simple Blog App using React, ReactRouterDom and ReduxForm
